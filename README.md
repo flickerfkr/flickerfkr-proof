@@ -13,7 +13,7 @@ Our mission is to provide **high-speed transactions with low fees** and create r
 - **Token Name:** Flicker  
 - **Symbol:** FKR  
 - **Network:** Polygon
-- **Contract Address:** [0x...YourTokenAddressHere]  
+- **Contract Address:** 0x3f94618aD346F34f43E27F0cF46decBb0D396b1b  
 - **Decimals:** 18  
 - **Total Supply:** 1,000,000,000 FKR  
 
